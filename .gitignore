@@ -1,0 +1,13 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mlx~
+*.fig~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local outputs
+*.mat
+*.log
